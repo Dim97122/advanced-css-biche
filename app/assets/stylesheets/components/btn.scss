@@ -1,0 +1,20 @@
+.btn-basic {
+  background-color: #294667;
+  border-style: solid 5px;
+  border-radius: 15%;
+  color: white; /* Blue Marine */
+  padding: 10px 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 9px #999s
+}
+
+.btn-basic:hover {
+    background-color: #ffa800; /* Orange */
+    color: white;
+}
+
+.btn-basic:active{
+  background-color: grey
+}
