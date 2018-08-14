@@ -1,13 +1,15 @@
 .btn-basic {
   background-color: #294667;
-  border-style: solid 5px;
+  border-style: solid;
+  border-width: 2px;
   border-radius: 15%;
   color: white; /* Blue Marine */
-  padding: 10px 24px;
+  padding: 10px 20px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
-  box-shadow: 0 9px #999s
+  width: auto;
+  height: auto;
 }
 
 .btn-basic:hover {
